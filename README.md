@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/francor36/francor36/output/snake.svg](https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg)" alt="Snake animation" />
+
 
 ###
